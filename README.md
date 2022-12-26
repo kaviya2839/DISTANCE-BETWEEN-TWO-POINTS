@@ -23,5 +23,5 @@ print("{:.2f}".format(d))
 ```
 ### OUTPUT:
 !["output](/distance.png)
-
 ### RESULT:
+thus the output is executed
